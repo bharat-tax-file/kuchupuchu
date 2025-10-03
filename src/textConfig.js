@@ -2,7 +2,7 @@
 
 export const textConfig = {
   greeting: {
-    name: "Huii, KuchuPuchu",
+    name: "Huii, Madam ji! 😊",
     message: "A Gift For You"
   },
 
@@ -11,11 +11,10 @@ export const textConfig = {
     subtitle: "Click to see your special letter",
     recipient: "To My KuchuPuchu",
     paragraphs: [
-      "Happy Boyfriend’s Day Divyesh to the most amazing person in my life! You make every day brighter with your love, care, and little things that mean so much.",
-
-      "I’m so lucky to have you by my side, and I just want you to know how deeply you’re loved and appreciated today and always."
+      "I want to confess something that’s been in my heart for a long time: I truly love you. Every moment with you feels special, and I can’t imagine my life without you.",
+      "You mean so much to me, and I hope you know how deeply I care for you. Thank you for being you, and for making my world brighter just by being in it."
     ],
-    signature: "Yours sincerely,\nMadam Ji"
+    signature: "Yours sincerely,\nNishant"
   },
 
   gallery: {
