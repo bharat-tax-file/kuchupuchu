@@ -39,7 +39,7 @@ export const textConfig = {
 
   ui: {
     envelopeHint: "Click to open",
-    envelopePreview: "💌 A letter for you..."
+    envelopePreview: "💌 A Poem for you..."
   },
 
 
