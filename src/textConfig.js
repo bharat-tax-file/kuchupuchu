@@ -3,7 +3,8 @@
 export const textConfig = {
   greeting: {
     name: "Huii, Madam ji! 😊",
-    message: "A Gift For You"
+        message: "A Gift For You from Nishant 💖",
+
   },
 
   letter: {
