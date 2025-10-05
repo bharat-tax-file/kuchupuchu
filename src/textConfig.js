@@ -3,17 +3,17 @@
 export const textConfig = {
   greeting: {
     name: "Huii, Madam ji! 😊",
-        message: "A Gift For You from Nishant 💖",
-
+    message: "A Gift For You from Nishant 💖",
   },
 
   letter: {
-    title: "Read My Letter",
-    subtitle: "Click to see your special letter",
-    recipient: "To My KuchuPuchu",
+    title: "Poem for You",
+    subtitle: "Click to see your special poem 💌",
+    recipient: "Poem for My KuchuPuchu",
     paragraphs: [
-      "I want to confess something that’s been in my heart for a long time: I truly love you. Every moment with you feels special, and I can’t imagine my life without you.",
-      "You mean so much to me, and I hope you know how deeply I care for you. Thank you for being you, and for making my world brighter just by being in it."
+      "She teases, then turns, like a spark on the breeze,\nPulling me closer with effortless ease.\nHer eyes catch mine—then slip away fast,\nA storm in her gaze that refuses to pass.",
+      "She dances on borders where longing ignites,\nOne step in the sun, one lost in the night.\nHer silence speaks louder than words ever could,\nA push and a pull I’ve never understood.",
+      "If only she'd stay where her glances remain,\nNot vanish like whispers dissolved in the rain.\nFor in that space between near and afar,\nMy heart learns the shape of who we truly are."
     ],
     signature: "Yours sincerely,\nNishant"
   },
