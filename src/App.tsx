@@ -745,9 +745,9 @@ function App() {
 
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
       {[
-        { text: "You make every day brighter 🌟", color: "from-yellow-100 to-yellow-200", borderColor: "border-yellow-300" },
-        { text: "You're my favorite person 💕", color: "from-purple-100 to-purple-200", borderColor: "border-purple-300" },
-        { text: "You make me smile ✨", color: "from-blue-100 to-blue-200", borderColor: "border-blue-300" },
+        { text: "your smile causes butterflies 🌟", color: "from-yellow-100 to-yellow-200", borderColor: "border-yellow-300" },
+        { text: "Her presence is the poetry my soul writes in secret 💕", color: "from-purple-100 to-purple-200", borderColor: "border-purple-300" },
+        { text: "One look at her and logic stops working ✨", color: "from-blue-100 to-blue-200", borderColor: "border-blue-300" },
       ].map((note, index) => (
         <RotatableNote key={index} note={note} index={index} />
       ))}
